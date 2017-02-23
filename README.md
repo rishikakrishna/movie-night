@@ -1,2 +1,2 @@
-# movie-night
+# Movie Night
 What should we watch?
