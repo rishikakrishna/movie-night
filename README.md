@@ -1,5 +1,5 @@
 # Movie Night
-What should we watch?
+*What should we watch?*
 
 The age-old problem before engaging in a successful movie nights is deciding and agreeing upon what to watch.
 
