@@ -14,8 +14,8 @@ def watch(p1_file,p2_file):
     and prints the output of those that are present in both.
     
     args:
-        p1_file: external .txt file containing the people you follow
-        p2_file: external .txt file containing your followers
+        p1_file: external .txt file containing the titles the first person wants to watch
+        p2_file: external .txt file containing the same for the second person
     returns:
         a sequence of titles in common
     """
