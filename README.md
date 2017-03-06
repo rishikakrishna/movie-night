@@ -11,4 +11,4 @@ As more people create accounts on the site and actively engage in updating their
 
 **Goals**:    
 - Import Watchlists directly from IMDB (account login) <br>
-- Compare more than 2 lists
+- Compare more than 2+ lists
