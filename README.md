@@ -14,5 +14,5 @@ As more people create accounts on the site and actively engage in updating their
 - Compare 2+ lists
 - Customizable advanced searches
   - *Genres*
-  - -non-IMDB searches-
+  - *non-IMDB searches*
   - *Web App with standalone content*
