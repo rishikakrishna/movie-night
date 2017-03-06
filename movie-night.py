@@ -27,6 +27,8 @@ def watch(p1_file,p2_file):
     for line in p2_file:
         p2.append(line.strip())
 
+
+    print('Here some things you might want to watch: ')
     for title in p1:
         if title in p2:
             print(title)
