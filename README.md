@@ -1,6 +1,6 @@
 # Movie Night
-*What should we watch?*
-<br>
+*What should we watch?* <br>
+
 The age-old problem before engaging in a successful movie night is deciding and agreeing upon what to watch.
 
 IMDB allows users to cultivate a "Watchlist" of titles that they wish to revisit, view, and share.
