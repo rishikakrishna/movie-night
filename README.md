@@ -1,7 +1,7 @@
 # Movie Night
 *What should we watch?*
 
-The age-old problem before engaging in a successful movie nights is deciding and agreeing upon what to watch.
+The age-old problem before engaging in a successful movie night is deciding and agreeing upon what to watch.
 
 IMDB allows users to cultivate a "Watchlist" of titles that they wish to revisit, view, and share.
 As more people create accounts on IMDB and actively engage in updating their watchlists, programs to analyze and compare data can be implemented. 
