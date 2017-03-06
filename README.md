@@ -13,6 +13,6 @@ As more people create accounts on the site and actively engage in updating their
 - Import Watchlists directly from IMDB (account login) <br>
 - Compare 2+ lists
 - Customizable advanced searches
-  -- Genres
-  -- non-IMDB searches
-  -- Web App
+  - *Genres*
+  - *non-IMDB searches*
+  - *Web App with standalone content*
