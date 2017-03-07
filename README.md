@@ -15,4 +15,4 @@ As more people create accounts on the site and actively engage in updating their
 - Customizable advanced searches
   - *Genres*
   - *non-IMDB searches*
-  - *Web App with standalone content* (**.html** files)
+  - *Web App with standalone content* (**index.html**)
