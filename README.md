@@ -7,7 +7,7 @@ IMDB allows users to cultivate a "Watchlist" of titles that they wish to revisit
 As more people create accounts on the site and actively engage in updating their watchlists, programs to analyze and compare data can be effectively implemented. 
 
 **Current**:  
-- A simple program that compares 2 .txt lists and prints the commonalities
+- A simple program (movie-night.py) that compares 2 .txt lists and prints the commonalities
 
 **Goals**:    
 - Import Watchlists directly from IMDB (account login) <br>
@@ -15,4 +15,4 @@ As more people create accounts on the site and actively engage in updating their
 - Customizable advanced searches
   - *Genres*
   - *non-IMDB searches*
-  - *Web App with standalone content*
+  - *Web App with standalone content* (.html files)
